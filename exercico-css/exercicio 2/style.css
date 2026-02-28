@@ -1,0 +1,7 @@
+nav a {
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: hsla(184, 40%, 86%, 0.829);
+    text-decoration: none;
+}
